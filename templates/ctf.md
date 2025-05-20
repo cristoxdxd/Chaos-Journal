@@ -3,6 +3,7 @@ challenge_name: "[CTF Name]"
 category: "[Web/Pwn/Reversing]"
 points: 100
 solved_by: "[Team/Individual]"
+competition: "[CTF Name]"
 ---
 
 # [CTF Name] Writeup
@@ -27,7 +28,10 @@ solved_by: "[Team/Individual]"
 
 ### Flag Capture
 
-{Exact flag location and format}
+<details>
+  <summary>Flag (spoiler below)</summary>
+  {Exact flag location and format}
+</details>
 
 ## Alternative Approaches
 
