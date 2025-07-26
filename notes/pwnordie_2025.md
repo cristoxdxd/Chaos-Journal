@@ -181,8 +181,6 @@ Los controles de seguridad tradicionales suelen pasar por alto los IDORs, especi
 > "La privacidad es un derecho, no un lujo."
 > — Ola Bini, Privacy and Anonimity
 
-## Paranoia Justificada: Espionaje, Respaldo y Seguridad Física
-
 La paranoia en ciberseguridad no es solo una actitud, sino una necesidad ante el avance de la tecnología y las capacidades de espionaje. Lo que hoy parece caro y exclusivo, mañana será accesible para cualquiera. El Internet de las Cosas (IoT) ha multiplicado los vectores de ataque: en Ecuador, por ejemplo, sabemos que los autos pueden ser hackeados gracias a investigaciones como las de Danilo, y casos internacionales como el de Michael Hastings han demostrado los riesgos reales.
 
 Edward Snowden reveló los abusos sistemáticos de la NSA, exponiendo programas como Paltalk, Tempora ("Nothing is beyond our reach") y Bullrun/Edgehill, donde se modificaron algoritmos de cifrado para debilitarlos intencionalmente. El catálogo ANT/NSA 2013 mostró herramientas de espionaje como Candygram (40K USD), Cottonmouth-I (1K USD), DropoutJeep, Firewalk, Godsurge y Howlermonkey, capaces de escuchar sin transmitir señales detectables. Incluso dispositivos cotidianos como el O.MG cable pueden ser utilizados para comprometer sistemas.
